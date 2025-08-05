@@ -23,3 +23,10 @@ header{
 nav a:hover{
     color: black;
 }
+.hero{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: antiquewhite;
+    padding: 3rem;
+}
